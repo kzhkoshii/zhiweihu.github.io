@@ -1,0 +1,15 @@
+---
+title: "News"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+
+
+- Getting better, but we still need good-quality research on outcomes of postdiagnostic dementia support in low-income countries  
+  [Original report](https://ebn.bmj.com/content/early/2025/06/08/ebnurs-2025-104324.abstract){target=_blank} ·
+  [PDF](resources/ebnurs-2025-104324.full.pdf){target=_blank}
+
+
+

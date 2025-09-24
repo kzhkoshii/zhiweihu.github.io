@@ -41,8 +41,8 @@ $code-bg: $theme-milkcoffee0; /* 代码背景颜色 */
 $code-block-bg-alpha: -0.8; /* 代码块背景的透明度 */
 $background-color: $theme-milkcoffee0; /* 页面背景色 */
 
-/* 导航栏 */
-$navbar-bg: $theme-darkgreen1; /* 导航栏背景颜色 */
+/* 导航栏 —— 修改为深紫色 */
+$navbar-bg: #4B0082; /* UPDATED: 深紫色 indigo */
 
 /* 提示框颜色 */
 $callout-color-note: $theme-darkgreen2; /* 提示框的注释颜色 */
@@ -74,6 +74,9 @@ $link-hover-color: $blue; /* 链接悬停时的颜色 */
 
 /*-- scss:rules --*/
 
+/* 保险起见：强制覆盖 trestles 导航栏底色 */
+.navbar { background-color: #4B0082 !important; } /* UPDATED */
+
 /* 1. 正文行间距和字体颜色调整 */
 body {
   line-height: 1.7; /* 正文的行间距设置为 1.7 */
@@ -104,27 +107,20 @@ code {
   font-family: Consolas, 'Courier New', monospace; /* 设置字体为等宽字体 */
 }
 
-/* 标题样式 */
-h1 {
+/* ===== 标题样式：英文字体 Calibri；中文字体 微软雅黑（含常见备选） ===== */
+$zh-stack: "Microsoft YaHei", "PingFang SC", "Hiragino Sans GB", "Noto Sans SC", "Source Han Sans SC", "Heiti SC";
+$en-stack: Calibri;
+
+h1, h2, h3, h4, h5, h6 {
   color: $theme-darkcoffee3;
-  font-family: $font-pt;
-  font-size: 40px;
+  font-family: $en-stack, $zh-stack, sans-serif !important; /* UPDATED */
 }
 
-h2 {
-  color: $theme-darkcoffee3;
-  font-family: $font-pt;
-  font-size: 30px;
-}
-
-h3, h4 {
-  color: $theme-mocha1;
-  font-family: $font-pt;
-}
-
-h4 {
-  color: $theme-darkgreen1;
-}
+/* 保留你原有的字号/色彩微调 */
+h1 { font-size: 40px; }
+h2 { font-size: 30px; }
+h3, h4 { color: $theme-mocha1; }
+h4 { color: $theme-darkgreen1; }
 
 /* 代码块和推送样式 */
 .render-commit-push {

@@ -1,62 +1,51 @@
 ---
-title: "Yujun Lian"
-image: images/lianyujun_2025.png
+title: "Zhiwei Hu MSc"
+image: images/zh.jpg
 about:
   id: hero-heading
   template: trestles
-  image-width: 12em
-  image-shape: round
+  image-width: 16em
   links:
     - icon: mailbox
-      text: arlionn@163.com
+      text: zhihu@utmb.edu
       href: mailto:arlionn@163.com
-    - icon: github
-      text: arlionn
-      href: https://github.com/lianyujun
     - icon: book
       text: Google Scholar
-      href: https://scholar.google.com/citations?user=tlkDP2AAAAAJ
+      href: https://scholar.google.com/citations?user=KyNSuUAAAAAJ&hl=en
     - icon: fingerprint
       text: ORCID
-      href: https://orcid.org/0000-0002-2011-7535
-    - icon: brands zhihu
-      text: 知乎
-      href: https://www.zhihu.com/people/arlionn/
-    - icon: brands weibo
-      text: 微博
-      href: https://weibo.com/arlionn
-    - icon: brands xing
-      text: 小红书
-      href: https://www.xiaohongshu.com/user/profile/682968d9000000000a03da1a
-    - icon: solid user
-      text: 工作主页
-      href: https://lingnan.sysu.edu.cn/faculty/LianYujun
-    - icon: brands home
-      text: 连享会
-      href: https://www.lianxh.cn
-    - icon: 📝
-      text: CV
-      href: CV.pdf  
+      href: https://orcid.org/0009-0003-3414-3237
+    - icon: brands linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/zhiwei-hu-467a28255/ 
 ---
 
 ::: {#hero-heading}
 
-Professor Lian's research interests lie in the field of causal inference methods and stochastic frontier analysis, with specific applications in investment, trade credit, and supply chain dynamics. He has been actively researching topics such as supply chain finance, leverage adjustment, trade credit, and innovation. He teaches courses in Financial Econometrics and Applied Econometrics. 
+## About Me
 
-His teaching abilities have been highly regarded, as evidenced by his consecutive perfect teaching evaluations in the MBA corporate finance course over a span of three years. He was was awarded the title of *My Favorite Teacher* in 2022 by Lignan College. 
+I am a Rehabilitation Sciences PhD student in the University of Texas Medical Branch, and my research interests are palliative care, geriatrics, and aging health. Now I am working with Dr Yong-Fang Kuo on a project which using medicare dataset to evaluate the impact of Annual Wellness Visits on MCI/ADRD patients.
 
-With his expertise in applied econometrics, he has made significant contributions to the [Stata](https://www.stata.com/) community by developing several popular packages, including `winsor2`, `xtbalance`, `bdiff`, and `sftt`, which have been widely used by researchers in various fields. He is one of the initiators of the Chinese Stata Users Group Meeting, which is one of the imporat meeting of Stata Corporation. He has been invited several times as a guest speaker to deliver keynote speeches ([2018th](https://www.stata.com/meeting/china18/), [2020th](https://www.stata.com/meeting/china20-Uone-Tech/), [2021th](https://www.stata.com/meeting/china21-Uone-Tech/), [2022th](https://www.stata.com/meeting/china22-Uone-Tech/), [2023th](https://www.stata.com/meeting/china23-Uone-Tech/)).
+I finished my epidemiology, GCP, and health economic training in London School of Economics, where I obtained my Master of Science Degree, and my academic mentor is Dr Olivier Wouters. I also completed a medical social work practicum in palliative care and clinical shadowing in palliative medicine at West China Medical Center, Sichuan University.
 
-He is also the founder of the website <https://www.lianxh.cn>, one of the largest academic websites in mainland China specializing in management and economics. Currently, it has published over 1300 articles introducing econometric and statistical methods. The WeChat official account lianxh_cn, established based on this website, has accumulated over 280,000 subscribers, with a total reading volume exceeding 20 million and a daily average reading volume exceeding 10,000.
-
+I am deeply committed to social welfare, with a particular focus on the well-being of both people and animals. Over the years, I have dedicated more than 1,200 volunteer hours to organizations including the Chengdu Research Base of Giant Panda Breeding, the Li Ka Shing Foundation’s National Hospice Care Program, and the 31st Chengdu Universiade. I also remain an active registered volunteer with the Galveston Island Humane Society.
 
 ## Background
 
-- Jan 2024 - Aug 2024: Visiting Professor, DeGroote School of Business, McMaster Univeristy. 
-- Aug 2015 - Jan 2016: Visiting Scholar, MIT Sloan School of Management, Massachusetts Institute of Technology
-- 2011 - Present: Associate Professor, Lingnan College, Sun Yat-sen University, specializing in Quantitative Economics
-- 2007-2010: Lecturer, Department of Finance, Lingnan College, Sun Yat-sen University
-- 2001-2007: Ph.D. in Economics, Xi'an Jiaotong University, China, specializing in Econometrics
-- 1997-2001: Bachelor of Engineering, Xi'an Jiaotong University, China, majoring in Materials Science.
+- 2024 - Present: Rehabilitation Sciences PhD student, the University of Texas Medical Branch, specializing in Palliative medicine and geriatrics
+- 2022-2023: Master of Science, London School of Economics, UK, majoring in Health Policy
+- 2018-2022: Bachelor of Law, Sichuan University, China, majoring in Social Work.
+
+## Honors & Awards
+- 2025 James McKenney Award, Gerontological Society of America
+- 2025 Don W. Micks Scholarship in Preventive Medicine and Community Health, the University of Texas
+- 2021 Sichuan University Comprehensive Scholarship, Sichuan University 
+- 2021 Sichuan University Outstanding Student Cadre, Sichuan University 
+- 2020 Excellent Student Assistant of Student Affairs Office, Sichuan University
+
+## Professional Membership
+- 2024 – Present Student Member, American Public Health Association (APHA)
+- 2025 - Present Student Member, American Academy of Hospice & Palliative Medicine (AAHPM) 
+- 2025 - Present Student Member, Gerontological Society of America (GSA)
 
 :::
